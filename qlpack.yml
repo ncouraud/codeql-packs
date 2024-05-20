@@ -1,0 +1,6 @@
+name: ncouraud/codeql-packs
+version: 0.1.0
+description: Microsoft Build Demo QL Pack
+default-suite:
+    - query: emptyvar.ql
+license: MIT
